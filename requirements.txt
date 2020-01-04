@@ -1,3 +1,4 @@
-bs4
-requests
-langdetect
+beautifulsoup4==4.8.1
+langdetect==1.0.7
+requests==2.22.0
+validators==0.14.1
